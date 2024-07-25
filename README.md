@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">CGVakula Tools</h1>
 
 <h3 align="center">
@@ -7,7 +8,7 @@
 <br/>
 
 ## 💻 Совместим с Blender ✨v2.93 - 4.1✨
-
+</div>
 <h3 align="center">Функционал</h3>
 
 #### 🚀 Работа с pivot point
