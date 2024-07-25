@@ -31,5 +31,8 @@
 
 🎉 Пробуйте, пишите Ваши идеи и пожелания. Со временем буду наращивать функционал.
 
+<div align="center">
+
 ## ✨ Мой блог: https://t.me/cgvakula
-  <center><img src=".github/resources/Plashka.png" height="auto" width="auto" alt="гифка"></center>
+  <center><img src=".github/resources/Plashka.png" height="400" width="auto" alt="гифка"></center>
+</div>
