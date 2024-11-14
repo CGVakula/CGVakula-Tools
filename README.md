@@ -7,7 +7,7 @@
 <center><img src=".github/resources/screen_01.png"></center>
 <br/>
 
-## 💻 Совместим с Blender ✨v2.93 - 4.2✨
+## 💻 Совместим с Blender ✨v2.93 - 4.2.3 LTS✨
 </div>
 <h3 align="center">Функционал</h3>
 
